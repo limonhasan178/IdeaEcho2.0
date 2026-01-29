@@ -1,0 +1,8 @@
+{
+  "name": "IdeaEcho",
+  "description": "Your digital memory that thinks for you. Automatically synthesizes your consumption patterns into actionable content ideas and learning roadmaps.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
